@@ -77,7 +77,7 @@ public class Glossary
         boolean added = false;
         if (!termExists(term)) {
             termsList.add(new Term(term, definition));
-            addTermToLexicon(label);
+           // addTermToLexicon(label);
             added = true;
         }
 
