@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394210294
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394212673
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394215716
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394215884
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1263394215884
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1263394215884
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394223620
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394224784
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263394227657
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394230582
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1263394236918
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263394238406
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1263394241357
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394243965
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394244917
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394247194
+error,log,,,"Problem while reading database schema",1263394259869
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1263394270781
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394272698
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394275190
+error,log,,,"Problem while reading database schema",1263394276091
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394282481
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394289390
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394300499
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394300699

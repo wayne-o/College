@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.criteriaeditor.CriteriaEditor",1263394305561
+activated,editor,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.criteriaeditor.CriteriaEditor",1263394305680
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394307320
+closed,editor,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.criteriaeditor.CriteriaEditor",1263394307322
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394309051
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394312680
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394327757
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394335622
+error,log,,,"Resource '/ReferenceApp' is not open.",1263394338735
+error,log,,,"Resource '/ReferenceApp' is not open.",1263394338792
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394346508
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263394348188
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394351800
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394378561
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394378648
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394378999
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394479842
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1263394480879
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394491776
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394510232
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1263394511629
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394526556
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394526669
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1263394559452
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1263394559649

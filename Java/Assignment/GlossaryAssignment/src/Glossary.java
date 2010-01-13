@@ -77,7 +77,7 @@ public class Glossary
         boolean added = false;
         if (!termExists(term)) {
             termsList.add(new Term(term, definition));
-           // addTermToLexicon(label);
+            addTermToLexicon(term);
             added = true;
         }
 
@@ -123,7 +123,7 @@ public class Glossary
      *                 new words
      * @return an ArrayList containing the modified phrases
      */
-    private ArrayList<String> includeWords (ArrayList<String> words, ArrayList<String> phrases) 
+    private ArrayList<String> includeWords (ArrayList<String> words, ArrayList<String> phrases)
     {
         ArrayList<String> modifiedPhrases = new ArrayList<String>();
 		
@@ -137,7 +137,25 @@ public class Glossary
         
         return modifiedPhrases;
     }
-	
+
+    private ArrayList<String> getSimilarPhrases (String phrase){
+
+        ArrayList<String> similar = new ArrayList<String>();
+
+        String[] words = phrase.split(" ");
+
+         for(String word : words)
+         {
+                if(lexicon.wordExists(word)){
+                      similar.add(word);
+                }  else{
+                      similar.addAll(lexicon.getSimilarWords(word, 100));
+                }
+         }
+
+        return similar;
+    }
+
     /**
      * This method interacts with the user. It asks the user for terms
      * to search. This interaction finishes when the user types the special
@@ -145,8 +163,17 @@ public class Glossary
      */
      public void interact() 
      {
+         ArrayList<String> list = getSimilarPhrases("abstract metods");
+
+         for(String word : list)
+         {
+             System.out.println(word);
+         }
+
 		 System.out.print("Enter term: ");
          String term = EasyIn.getString();
+
+
 
          while (!term.equals("finish")) 
          {

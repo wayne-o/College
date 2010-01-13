@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.TypeHierarchy",1263394110287
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1263394111148
+closed,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.TypeHierarchy",1263394111150
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263394113768
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394120692
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394124908
+opened,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394125040
+activated,view,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console.views.KnownConfigurationsView",1263394125111
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1263394125111
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1263394125111
+error,log,,,"Problem while reading database schema",1263394144715
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394147683
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394152869
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394153958
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394159081
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263394162378
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1263394162379
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394176203
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394179226
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394181206
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394185743
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1263394185764
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394188646
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394196817
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263394207028

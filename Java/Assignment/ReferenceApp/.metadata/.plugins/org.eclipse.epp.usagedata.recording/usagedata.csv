@@ -1,0 +1,10 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263391083596
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263391083603
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1263391083815
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.navigate.collapseAll",1263391088163
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263391109088
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1263391132649
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1263391132679
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263391188861
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263391195755

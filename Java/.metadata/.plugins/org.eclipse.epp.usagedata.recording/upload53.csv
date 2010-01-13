@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1263395614650
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1263395614651
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1263395614896
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1263395614897
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1263395614898
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1263395614899
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1263395615076
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1263395615078
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.1.v200908111817,"org.eclipse.wst.common.project.facet.core",1263395615078
+started,bundle,org.eclipse.wst.web,1.1.301.v200909021400,"org.eclipse.wst.web",1263395615078
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1263395615078
+started,bundle,org.hibernate.eclipse.console,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.console",1263395615196
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1263395615197
+os,sysinfo,,,"win32",1263395615201
+arch,sysinfo,,,"x86",1263395615201
+ws,sysinfo,,,"win32",1263395615201
+locale,sysinfo,,,"en_GB",1263395615201
+processors,sysinfo,,,"2",1263395615201
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1263395615201
+java.runtime.version,sysinfo,,,"1.6.0_17-b04",1263395615201
+java.specification.name,sysinfo,,,"Java Platform API Specification",1263395615201
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1263395615201
+java.specification.version,sysinfo,,,"1.6",1263395615201
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1263395615202
+java.version,sysinfo,,,"1.6.0_17",1263395615202
