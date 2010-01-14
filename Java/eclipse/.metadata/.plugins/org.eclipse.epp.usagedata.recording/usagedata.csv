@@ -1,0 +1,4 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jst.server.generic.ui,1.0.405.v200905022002,"org.eclipse.jst.server.generic.ui",1263411050058
+stopped,bundle,org.eclipse.jst.server.generic.core,1.0.506.v20090817,"org.eclipse.jst.server.generic.core",1263411050058
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.ide.ant",1263411050058

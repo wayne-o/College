@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410984416
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410988812
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410988855
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263410998880
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263411002762
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411008943
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411010197
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263411016563
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1263411020909
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411025231
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411027879
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411027997
+error,log,,,"Unhandled event loop exception",1263411030479
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411035924
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263411038943
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263411042426
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411045024
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411046053
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411046128
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411048883
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263411049226
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1263411049816
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1263411049817
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1263411049817
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1263411049817

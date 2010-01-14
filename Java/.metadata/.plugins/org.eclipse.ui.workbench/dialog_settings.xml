@@ -21,4 +21,6 @@
 			<item value="hibernatecategory"/>
 		</list>
 	</section>
+	<section name="ImportExportAction">
+	</section>
 </section>

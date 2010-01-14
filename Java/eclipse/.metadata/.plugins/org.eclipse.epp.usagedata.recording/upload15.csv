@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+processors,sysinfo,,,"2",1263405198503
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1263405198503
+java.runtime.version,sysinfo,,,"1.6.0_17-b04",1263405198503
+java.specification.name,sysinfo,,,"Java Platform API Specification",1263405198503
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1263405198503
+java.specification.version,sysinfo,,,"1.6",1263405198503
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1263405198503
+java.version,sysinfo,,,"1.6.0_17",1263405198503
+java.vm.info,sysinfo,,,"mixed mode",1263405198503
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1263405198503
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1263405198503
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1263405198503
+java.vm.specification.version,sysinfo,,,"1.0",1263405198503
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1263405198503
+java.vm.version,sysinfo,,,"14.3-b01",1263405198503
+started,bundle,org.eclipse.equinox.p2.ui,1.0.101.R35x_v20090819,"org.eclipse.equinox.p2.ui",1263405225965
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1263405225966
+started,bundle,org.eclipse.equinox.p2.metadata,1.0.100.v20090525,"org.eclipse.equinox.p2.metadata",1263405226024
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263405227365
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.extensionlocation",1263405229070
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.0.101.R35x_v20090721,"org.eclipse.equinox.p2.artifact.repository",1263405249603
+started,bundle,org.eclipse.equinox.p2.publisher,1.0.0.v20090527-1812,"org.eclipse.equinox.p2.publisher",1263405249662
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,1.0.101.R35x_20090820-1821,"org.eclipse.equinox.p2.touchpoint.eclipse",1263405249685
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263405265118
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1263405265137

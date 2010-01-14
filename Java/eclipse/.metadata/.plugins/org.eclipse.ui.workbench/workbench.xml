@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="28" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="-1577" y="-98">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="115" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.maven.ide.eclipse.editor.MavenPomEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReferenceApp.java" partName="ReferenceApp.java" path="C:/work/rextracted/git/College/Java/eclipse/reference/reference-app/src/main/java/org/wayne/reference/ReferenceApp.java" title="ReferenceApp.java" tooltip="reference-app/src/main/java/org/wayne/reference/ReferenceApp.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reference-app/src/main/java/org/wayne/reference/ReferenceApp.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="728" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SessionFactoryUtil.java" partName="SessionFactoryUtil.java" path="C:/work/rextracted/git/College/Java/eclipse/reference/reference-app/src/main/java/org/wayne/reference/util/SessionFactoryUtil.java" title="SessionFactoryUtil.java" tooltip="reference-app/src/main/java/org/wayne/reference/util/SessionFactoryUtil.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reference-app/src/main/java/org/wayne/reference/util/SessionFactoryUtil.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="246" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Category.java" partName="Category.java" path="C:/work/rextracted/git/College/Java/eclipse/reference/reference-app/src/main/java/org/wayne/reference/domain/Category.java" title="Category.java" tooltip="reference-app/src/main/java/org/wayne/reference/domain/Category.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reference-app/src/main/java/org/wayne/reference/domain/Category.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="112" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="hibernate.cfg.xml" partName="hibernate.cfg.xml" path="C:/work/rextracted/git/College/Java/eclipse/reference/reference-app/src/main/resources/hibernate.cfg.xml" title="hibernate.cfg.xml" tooltip="reference-app/src/main/resources/hibernate.cfg.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reference-app/src/main/resources/hibernate.cfg.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HibernateUtil.java" partName="HibernateUtil.java" path="C:/work/rextracted/git/College/Java/eclipse/reference/reference-app/src/main/java/org/wayne/reference/util/HibernateUtil.java" title="HibernateUtil.java" tooltip="reference-app/src/main/java/org/wayne/reference/util/HibernateUtil.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/reference-app/src/main/java/org/wayne/reference/util/HibernateUtil.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="807" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
+<expanded>
+<category IMemento.internal.id="Java Problems (13 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.allSeverityField="300" org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actionSet"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.help.actionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.AllMarkersView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+<view id="org.eclipse.wst.server.ui.ServersView" ratio="0.3"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" ratio="0.3"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.2994709"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@ed5ba6" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24625525" ratioLeft="411" ratioRight="1258" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.48089173" ratioLeft="453" ratioRight="489" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.AllMarkersView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.72245765" ratioLeft="1023" ratioRight="393" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" uri="file:/C:/work/rextracted/git/College/Java/ReferenceApplication/pom.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reference-app/src/main/java/org/wayne/reference/ReferenceApp.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=reference-app/C:\/Users\/Wayne\/.m2\/repository\/org\/apache\/lucene\/lucene-core\/3.0.0\/lucene-core-3.0.0.jar&lt;org.apache.lucene.analysis.standard(StandardAnalyzer.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reference-app/src/main/java/org/wayne/reference/util/SessionFactoryUtil.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reference-app/src/main/java/org/wayne/reference/domain/Category.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.maven.ide.eclipse.editor.MavenPomEditor" path="/reference-app/pom.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/reference-app/pom.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/reference-app/src/main/resources/hibernate.cfg.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/reference-app/src/main/java/org/wayne/reference/util/HibernateUtil.java"/>
+</editors>
+<item historyLabel="pom.xml" index="0"/>
+<item historyLabel="ReferenceApp.java" index="1">
+<position/>
+</item>
+<item historyLabel="StandardAnalyzer.class" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="2260" y="0"/>
+</item>
+<item historyLabel="SessionFactoryUtil.java" index="3">
+<position info="not_deleted" x="97" y="23"/>
+</item>
+<item historyLabel="Category.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SessionFactoryUtil.java" index="3">
+<position info="not_deleted" x="97" y="23"/>
+</item>
+<item historyLabel="Category.java" index="4">
+<position info="not_deleted" x="233" y="0"/>
+</item>
+<item historyLabel="reference-app/pom.xml" index="5"/>
+<item historyLabel="Category.java" index="4">
+<position info="not_deleted" x="352" y="0"/>
+</item>
+<item historyLabel="SessionFactoryUtil.java" index="3">
+<position info="not_deleted" x="97" y="23"/>
+</item>
+<item historyLabel="reference-app/pom.xml" index="6">
+<position/>
+</item>
+<item historyLabel="reference-app/pom.xml" index="5"/>
+<item historyLabel="reference-app/pom.xml" index="5"/>
+<item historyLabel="SessionFactoryUtil.java" index="3">
+<position info="not_deleted" x="246" y="0"/>
+</item>
+<item historyLabel="Category.java" index="4">
+<position info="not_deleted" x="352" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="2194" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="744" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="1315" y="0"/>
+</item>
+<item historyLabel="hibernate.cfg.xml" index="7"/>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="3464" y="0"/>
+</item>
+<item historyLabel="HibernateUtil.java" index="8">
+<position info="not_deleted" x="807" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="106" y="0"/>
+</item>
+<item historyLabel="Category.java" index="4">
+<position info="not_deleted" x="112" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="106" y="0"/>
+</item>
+<item historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="515" y="0"/>
+</item>
+<item active="true" historyLabel="ReferenceApp.java" index="1">
+<position info="not_deleted" x="454" y="35"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HibernateUtil.java" tooltip="reference-app/src/main/java/org/wayne/reference/util/HibernateUtil.java">
+<persistable path="/reference-app/src/main/java/org/wayne/reference/util/HibernateUtil.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="hibernate.cfg.xml" tooltip="reference-app/src/main/resources/hibernate.cfg.xml">
+<persistable path="/reference-app/src/main/resources/hibernate.cfg.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.maven.ide.eclipse.editor.MavenPomEditor" name="pom.xml" tooltip="reference-app/pom.xml">
+<persistable path="/reference-app/pom.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Category.java" tooltip="reference-app/src/main/java/org/wayne/reference/domain/Category.java">
+<persistable path="/reference-app/src/main/java/org/wayne/reference/domain/Category.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SessionFactoryUtil.java" tooltip="reference-app/src/main/java/org/wayne/reference/util/SessionFactoryUtil.java">
+<persistable path="/reference-app/src/main/java/org/wayne/reference/util/SessionFactoryUtil.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="StandardAnalyzer.class" tooltip="org.apache.lucene.analysis.standard.StandardAnalyzer">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=reference-app/C:\/Users\/Wayne\/.m2\/repository\/org\/apache\/lucene\/lucene-core\/3.0.0\/lucene-core-3.0.0.jar&lt;org.apache.lucene.analysis.standard(StandardAnalyzer.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReferenceApp.java" tooltip="reference-app/src/main/java/org/wayne/reference/ReferenceApp.java">
+<persistable path="/reference-app/src/main/java/org/wayne/reference/ReferenceApp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="pom.xml" tooltip="C:\work\rextracted\git\College\Java\ReferenceApplication\pom.xml">
+<persistable uri="file:/C:/work/rextracted/git/College/Java/ReferenceApplication/pom.xml"/>
+</file>
+</mruList>
+</workbench>

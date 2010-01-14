@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1263404895536
+java.vm.specification.version,sysinfo,,,"1.0",1263404895536
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1263404895536
+java.vm.version,sysinfo,,,"14.3-b01",1263404895536
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404899642
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404907764
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404908749
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404919359
+started,bundle,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui",1263404919786
+started,bundle,org.eclipse.wst.sse.ui,1.1.101.v200908261807,"org.eclipse.wst.sse.ui",1263404920596
+started,bundle,org.eclipse.ant.ui,3.4.1.v20090901_r351,"org.eclipse.ant.ui",1263404921689
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1263404921892
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1263404921964
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1263404922154
+started,bundle,org.hibernate.eclipse,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse",1263404922408
+started,bundle,org.hibernate.eclipse.mapper,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.mapper",1263404922410
+started,bundle,org.eclipse.wst.xsl.core,1.0.1.v200908101420,"org.eclipse.wst.xsl.core",1263404922855
+started,bundle,org.eclipse.wst.xsd.core,1.1.401.v200903020335,"org.eclipse.wst.xsd.core",1263404923524
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1263404923636
+started,bundle,org.eclipse.jst.jsp.ui,1.1.401.v200908111935,"org.eclipse.jst.jsp.ui",1263404923782
+started,bundle,org.eclipse.jst.jsp.core,1.2.203.v200908241513,"org.eclipse.jst.jsp.core",1263404923956
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1263404923963
+started,bundle,org.eclipse.wst.dtd.ui,1.0.400.v200904300717,"org.eclipse.wst.dtd.ui",1263404924564
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1263404925120
+opened,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1263404925383

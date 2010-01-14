@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409851240
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409856080
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409870422
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409891625
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1263409891642
+error,log,,,"Warning: Detected recursive attempt by part org.maven.ide.eclipse.editor.MavenPomEditor to create itself (this is probably, but not necessarily, a bug)",1263409893981
+opened,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409894303
+activated,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409894722
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1263409902432
+activated,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409902580
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409929267
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409930649
+started,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1263409936337
+opened,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409936745
+activated,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409937291
+activated,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.ContentOutline",1263409945073
+activated,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409958946
+activated,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409959880
+closed,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409959880
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409961314
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263409962521
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263409962759
+closed,editor,org.maven.ide.eclipse.editor,0.9.8.200905041414,"org.maven.ide.eclipse.editor.MavenPomEditor",1263409962759
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263409964972
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1263409966312

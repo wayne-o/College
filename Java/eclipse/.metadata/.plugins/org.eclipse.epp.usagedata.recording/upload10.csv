@@ -1,0 +1,11 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.wst.css.ui,1.0.401.v200907171457,"org.eclipse.wst.css.ui",1263405167472
+stopped,bundle,org.eclipse.wst.jsdt.web.core,1.0.200.v200905120445,"org.eclipse.wst.jsdt.web.core",1263405167473
+stopped,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1263405167474
+stopped,bundle,org.eclipse.wst.css.core,1.1.300.v200904131653,"org.eclipse.wst.css.core",1263405167476
+stopped,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1263405167476
+stopped,bundle,org.hibernate.eclipse.jdt.apt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.apt.ui",1263405167477
+stopped,bundle,org.hibernate.eclipse.jdt.ui,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.jdt.ui",1263405167478
+stopped,bundle,org.hibernate.eclipse.mapper,3.2.4.GA-R200905070146-H18,"org.hibernate.eclipse.mapper",1263405167478
+stopped,bundle,org.jboss.tools.hibernate.ui.veditor,3.2.4.GA-R200905070146-H18,"org.jboss.tools.hibernate.ui.veditor",1263405167479
+stopped,bundle,org.jboss.tools.hibernate.ui.view,3.2.4.GA-R200905070146-H18,"org.jboss.tools.hibernate.ui.view",1263405167493

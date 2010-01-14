@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1263403968013
+os,sysinfo,,,"win32",1263403968017
+arch,sysinfo,,,"x86",1263403968017
+ws,sysinfo,,,"win32",1263403968017
+locale,sysinfo,,,"en_GB",1263403968017
+processors,sysinfo,,,"2",1263403968018
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1263403968018
+java.runtime.version,sysinfo,,,"1.6.0_17-b04",1263403968018
+java.specification.name,sysinfo,,,"Java Platform API Specification",1263403968018
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1263403968018
+java.specification.version,sysinfo,,,"1.6",1263403968018
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1263403968018
+java.version,sysinfo,,,"1.6.0_17",1263403968018
+java.vm.info,sysinfo,,,"mixed mode",1263403968018
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1263403968018
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1263403968018
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1263403968018
+java.vm.specification.version,sysinfo,,,"1.0",1263403968018
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1263403968018
+java.vm.version,sysinfo,,,"14.3-b01",1263403968018
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263403971657
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263403982114
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263403987972
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263403989205
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263403996710

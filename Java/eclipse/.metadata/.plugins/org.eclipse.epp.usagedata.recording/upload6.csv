@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.edit.text.openLocalFile",1263404925629
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1263404925630
+activated,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1263404929043
+activated,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1263404929282
+activated,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1263404929314
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263404929409
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1263404929420
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263404935089
+closed,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1263404935089
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.closeAll",1263404935123
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404938129
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404954550
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404960215
+started,bundle,org.eclipse.equinox.p2.ui,1.0.101.R35x_v20090819,"org.eclipse.equinox.p2.ui",1263404961762
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1263404961764
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404965203
+started,bundle,org.eclipse.equinox.p2.metadata,1.0.100.v20090525,"org.eclipse.equinox.p2.metadata",1263404972068
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263404973494
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.extensionlocation",1263404984318
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.0.101.R35x_v20090721,"org.eclipse.equinox.p2.artifact.repository",1263405010832
+started,bundle,org.eclipse.equinox.p2.publisher,1.0.0.v20090527-1812,"org.eclipse.equinox.p2.publisher",1263405010883
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,1.0.101.R35x_20090820-1821,"org.eclipse.equinox.p2.touchpoint.eclipse",1263405010908
+error,log,,,"Operation details",1263405042709
+error,log,,,"Operation details",1263405042711
+error,log,,,"Operation details",1263405042733

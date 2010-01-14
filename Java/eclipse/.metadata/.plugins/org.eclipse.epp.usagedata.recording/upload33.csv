@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263410186589
+error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenamePomAction",1263410190218
+executed,command,,,"org.maven.ide.eclipse.pomFileAction.debug",1263410196104
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1263410199263
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1263410203737
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410214391
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410218618
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410218782
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410224097
+executed,command,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui.localJavaShortcut.debug",1263410224113
+executed,command,org.eclipse.jdt.junit,3.5.1.r351_v20090708-0800,"org.eclipse.jdt.junit.junitShortcut.run",1263410228611
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410228670
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410233780
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410234059
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410235586
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410237325
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410238531
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410238629
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410239794
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410241173
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410243055
+executed,command,org.eclipse.ui.externaltools,3.2.0.v20090504,"org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar",1263410243072
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410248647
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410253096
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1263410253163
