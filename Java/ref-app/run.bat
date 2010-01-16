@@ -1,0 +1,1 @@
+java -cp target/ref-app-1.0-SNAPSHOT.jar org.wayne.reference.app.App
